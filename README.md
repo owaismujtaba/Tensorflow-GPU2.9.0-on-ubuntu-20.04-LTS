@@ -3,7 +3,7 @@
 
 To setup a GPU- Supportfor Nvidia and Tensor flow you need these things
 1. You should have nvidia device drivers installed.
-2. Check nvidia-smi it should be working
+2. Check nvidia-smi it should be working.if it is not working dont worry follow the steps
 ![Screenshot from 2022-08-16 13-03-58](https://user-images.githubusercontent.com/45037843/184864535-2db2dbfa-8c9a-4afd-ba42-f268b975215a.png)
 
 3. You need to downlod CUDA and cuDNN
@@ -11,6 +11,9 @@ To setup a GPU- Supportfor Nvidia and Tensor flow you need these things
 5. ![Screenshot from 2022-08-16 13-08-05](https://user-images.githubusercontent.com/45037843/184865155-4957c2c5-361e-409e-a99e-7bfc20808f0a.png)
 
 6. Here will be installing tensorflow 2.9.0 so we need to download CUDA 11.2 and cuDNN 8.1
-7. Go to ![image](https://user-images.githubusercontent.com/45037843/184865333-36f5eeea-618b-490d-b8bb-c25315a33770.png)
+7. Go to https://developer.nvidia.com/cuda-downloads
 
-8. 
+8. Select Linux then x86 then ubuntu then 20.04 then run file you will get the two steps as below
+9. ![Screenshot from 2022-08-16 13-11-54](https://user-images.githubusercontent.com/45037843/184865899-4b684b90-6b95-4c98-978d-89c78873a2bd.png)
+Exectute these two in your ubuntu shell. The first one will donload the file and second one for installation
+
