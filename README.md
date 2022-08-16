@@ -18,5 +18,9 @@ To setup a GPU- Supportfor Nvidia and Tensor flow you need these things
 
 8. Select Linux then x86 then ubuntu then 20.04 then run file you will get the two steps as below
 9. ![Screenshot from 2022-08-16 13-11-54](https://user-images.githubusercontent.com/45037843/184865899-4b684b90-6b95-4c98-978d-89c78873a2bd.png)
-Exectute these two in your ubuntu shell. The first one will donload the file and second one for installation
+10. Exectute these two in your ubuntu shell. The first one will download the file and second one for installation. 
+11. Wait for the menu to pop up and continue the type accept.
+12. ![Screenshot from 2022-08-16 13-18-59](https://user-images.githubusercontent.com/45037843/184867386-d9048b5d-4454-477c-ad17-9440d38a5c68.png)
+13. if your nvidia-smi was not working the check the Driver and CUDA Toolkit11.2. you do not need Samples Demo Suite and Documentation
+14. 
 
